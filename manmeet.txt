@@ -1,2 +1,4 @@
 name = manmeet singh nagi
-age = 25
+age = 26
+country = india
+school = ghps
